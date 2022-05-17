@@ -7,5 +7,4 @@
 - Stop
 - Split (Lap)
 - Reset
-
 *This is for educational use only *
