@@ -8,4 +8,4 @@
 - Split (Lap)
 - Reset
 
-**This is for educational use only **
+*This is for educational use only *
