@@ -1,5 +1,5 @@
+**Python Stopwatch**
 
-Python Stopwatch
 **Features**
 
 - Start
