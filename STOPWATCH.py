@@ -51,7 +51,7 @@ class Content:
             global display
             running = True
 
-        def sw_pause():
+        def sw_stop():
             global running
             running = False
 
@@ -117,7 +117,7 @@ class Content:
         btn_start = Button(display_lf, text='Start', command=sw_start)
         btn_start.pack(side='left')
 
-        btn_pause = Button(display_lf, text='PAUSE', command=sw_pause)
+        btn_stop = Button(display_lf, text='Stop', command=sw_stop)
         btn_stop.pack(side='left')
 
         btn_reset = Button(display_lf, text='Reset', command=sw_reset)
